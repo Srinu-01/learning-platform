@@ -1,0 +1,35 @@
+[
+    {
+      "question": "In how many ways can 3 candies be chosen from a jar containing 10 different candies?",
+      "options": [
+        "84",
+        "120",
+        "210",
+        "56"
+      ],
+      "answer": "120",
+      "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing 3 candies from 10, the number of combinations is 10C3 = 10! / (3! * (10 - 3)!) = 120."
+    },
+    {
+      "question": "How many different combinations of 2 letters can be chosen from the set {A, B, C, D, E} with repetition allowed?",
+      "options": [
+        "15",
+        "10",
+        "6",
+        "21"
+      ],
+      "answer": "15",
+      "explanation": "Using the formula for combinations with repetition, (5 + 2 - 1) choose 2 = 6 choose 2 = 15."
+    },
+    {
+      "question": "A committee of 7 members needs to be formed from a group of 12 people. How many different committees are possible?",
+      "options": [
+        "792",
+        "924",
+        "120",
+        "220"
+      ],
+      "answer": "792",
+      "explanation": "Using the combination formula, C(12, 7) = 12! / (7! * (12 - 7)!) = 792."
+    }
+]  

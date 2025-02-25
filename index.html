@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aptitude Learning Platform</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="logo">
+                <span class="logo-icon">✨</span>
+                AptitudePro
+            </div>
+            <div class="nav-controls">
+                <div class="progress-summary">
+                    <span class="total-progress"></span>
+                </div>
+                <button class="theme-toggle" aria-label="Toggle dark mode">
+                    <span class="light-icon">☀️</span>
+                    <span class="dark-icon">🌙</span>
+                </button>
+                <button class="menu-toggle" aria-label="Toggle menu">☰</button>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="hero" class="section hero-section active">
+            <div class="hero-content">
+                <h1>Master Your Aptitude Skills</h1>
+                <p>Embark on a journey of interactive learning with our premium quality content designed to enhance your analytical thinking.</p>
+                <button class="start-btn">
+                    Explore Topics
+                    <span class="button-icon">→</span>
+                </button>
+            </div>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <span class="feature-icon">📚</span>
+                    <h3>Rich Content</h3>
+                    <p>100+ carefully crafted questions</p>
+                </div>
+                <div class="feature-card">
+                    <span class="feature-icon">⚡</span>
+                    <h3>Instant Feedback</h3>
+                    <p>Detailed explanations</p>
+                </div>
+                <div class="feature-card">
+                    <span class="feature-icon">📊</span>
+                    <h3>Track Progress</h3>
+                    <p>Monitor your improvement</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Topics Section -->
+        <section id="topics" class="section topics-section">
+            <div class="section-header">
+                <h2>Choose Your Topic</h2>
+                <p>Select a topic to start practicing</p>
+            </div>
+            <div class="topics-grid">
+                <div class="loading-state" style="display: none">
+                    <div class="loader"></div>
+                    <p>Loading topics...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz Section -->
+        <section id="quiz" class="section quiz-section">
+            <div class="quiz-header">
+                <div class="quiz-progress">
+                    <div class="progress-wrapper">
+                        <div class="progress-bar"></div>
+                    </div>
+                    <div class="quiz-stats">
+                        <span class="question-counter"></span>
+                        <span class="accuracy-counter"></span>
+                    </div>
+                </div>
+                <button class="exit-quiz" aria-label="Exit quiz">
+                    <span>✕</span>
+                </button>
+            </div>
+            
+            <div class="quiz-content">
+                <div class="question-container">
+                    <span class="question-number">Question 1</span>
+                    <h2 class="question-text"></h2>
+                </div>
+                
+                <div class="options-container"></div>
+                
+                <div class="explanation-container"></div>
+            </div>
+            
+            <div class="quiz-controls">
+                <button class="nav-btn prev-btn" disabled>
+                    <span class="btn-icon">←</span>
+                    Previous
+                </button>
+                <button class="nav-btn next-btn">
+                    Next
+                    <span class="btn-icon">→</span>
+                </button>
+            </div>
+        </section>
+
+        <!-- Results Section -->
+        <section id="results" class="section results-section">
+            <div class="results-container">
+                <div class="results-header">
+                    <h2>Quiz Results</h2>
+                    <div class="results-score-circle">
+                        <svg class="progress-ring">
+                            <circle class="progress-ring-circle" cx="60" cy="60" r="54"></circle>
+                        </svg>
+                        <div class="score-text">
+                            <span class="score-percentage">0%</span>
+                            <span class="score-label">Score</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="results-details">
+                    <div class="results-summary"></div>
+                    <div class="performance-stats">
+                        <div class="stat-item">
+                            <span class="stat-label">Correct Answers</span>
+                            <span class="stat-value correct-answers">0</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Time Taken</span>
+                            <span class="stat-value time-taken">0:00</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Accuracy</span>
+                            <span class="stat-value accuracy">0%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button class="action-btn retry-btn">
+                        <span class="btn-icon">↺</span>
+                        Try Again
+                    </button>
+                    <button class="action-btn home-btn">
+                        <span class="btn-icon">←</span>
+                        Back to Topics
+                    </button>
+                </div>
+
+                <div class="share-section">
+                    <p>Share your achievement</p>
+                    <div class="share-buttons">
+                        <button class="share-btn twitter">Twitter</button>
+                        <button class="share-btn facebook">Facebook</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>Made with ❤️ for learning</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

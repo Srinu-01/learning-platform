@@ -1,0 +1,35 @@
+[
+    {
+      "question": "Two trains travel in the same direction. One train travels at 45 km/h and the other at 30 km/h. If the faster train passes a man sitting in the slower train in 6 seconds, find the length of the faster train.",
+      "options": [
+        "120 meters",
+        "135 meters",
+        "150 meters",
+        "165 meters"
+      ],
+      "answer": "120 meters",
+      "explanation": "Relative speed = 45 - 30 = 15 km/h = 15 * 5 / 18 m/s = 25/6 m/s\nDistance = Relative speed * Time\nDistance = (25/6) * 6 = 25 meters\nLength of the faster train = Distance = 25 meters."
+    },
+    {
+      "question": "Two trains start from the same point and travel towards each other. One train travels at 60 km/h and the other at 45 km/h. If they meet after 4 hours, find the distance between their starting points.",
+      "options": [
+        "360 km",
+        "400 km",
+        "450 km",
+        "480 km"
+      ],
+      "answer": "450 km",
+      "explanation": "Relative speed = 60 + 45 = 105 km/h\nTime taken = 4 hours\nDistance = Relative speed * Time\nDistance = 105 * 4 = 420 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both trains. So, the distance between their starting points = 420 km."
+    },
+    {
+      "question": "Two trains travel in the same direction. One train travels at 45 km/h and the other at 30 km/h. If the faster train passes a man sitting in the slower train in 6 seconds, find the length of the faster train.",
+      "options": [
+        "120 meters",
+        "135 meters",
+        "150 meters",
+        "165 meters"
+      ],
+      "answer": "120 meters",
+      "explanation": "Relative speed = 45 - 30 = 15 km/h = 15 * 5 / 18 m/s = 25/6 m/s\nDistance = Relative speed * Time\nDistance = (25/6) * 6 = 25 meters\nLength of the faster train = Distance = 25 meters."
+    }
+]

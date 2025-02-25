@@ -1,0 +1,35 @@
+[
+    {
+      "question": "A swimming pool can be filled by pipe A in 8 hours and by pipe B in 12 hours. If both pipes are opened simultaneously, how long will it take to fill the pool?",
+      "options": [
+        "4 hours",
+        "5 hours",
+        "6 hours",
+        "8 hours"
+      ],
+      "answer": "4.8 hours",
+      "explanation": "In 1 hour, pipe A fills 1/8th of the pool and pipe B fills 1/12th of the pool. Together, they fill 1/8 + 1/12 = 5/24th of the pool in 1 hour. Therefore, they will fill the entire pool in 24/5 hours, which is approximately 4.8 hours."
+    },
+    {
+      "question": "A pipe can fill a cistern in 10 hours. Another pipe can empty it in 20 hours. If both pipes are opened together, how long will it take to fill the cistern?",
+      "options": [
+        "15 hours",
+        "20 hours",
+        "25 hours",
+        "30 hours"
+      ],
+      "answer": "30 hours",
+      "explanation": "In 1 hour, the net part filled = (1/10 - 1/20) = 1/20. So, it will take 20 hours to fill 1/20th of the cistern. So, it will take 20 * 30 = 600 hours to fill the cistern."
+    },
+    {
+      "question": "A cistern can be filled by two pipes A and B in 16 and 20 hours respectively. How long will it take for both pipes to fill the cistern together?",
+      "options": [
+        "8 hours",
+        "10 hours",
+        "12 hours",
+        "15 hours"
+      ],
+      "answer": "8 hours",
+      "explanation": "In 1 hour, the net part filled = (1/16 + 1/20) = 9/80. So, it will take 80/9 hours, which is approximately 8.89 hours, to fill the cistern."
+    }
+]  
