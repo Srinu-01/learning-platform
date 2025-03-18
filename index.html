@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Add base URL tag -->
+    <base href="/">
     <title>Aptitude Learning Platform</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header class="header">
+    <header class="header"> 
         <nav class="nav">
             <div class="logo">
                 <span class="logo-icon">✨</span>
@@ -16,13 +18,13 @@
             </div>
             <div class="nav-controls">
                 <div class="progress-summary">
-                    <span class="total-progress"></span>
+                    <span class="total-progress" role="status"></span>
                 </div>
                 <button class="theme-toggle" aria-label="Toggle dark mode">
-                    <span class="light-icon">☀️</span>
-                    <span class="dark-icon">🌙</span>
+                    <span class="light-icon" aria-hidden="true">☀️</span>
+                    <span class="dark-icon" aria-hidden="true">🌙</span>
                 </button>
-                <button class="menu-toggle" aria-label="Toggle menu">☰</button>
+                <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
             </div>
         </nav>
     </header>
@@ -58,7 +60,7 @@
         </section>
 
         <!-- Topics Section -->
-        <section id="topics" class="section topics-section">
+        <section id="topics" class="section topics-section" style="display: none;">
             <div class="section-header">
                 <h2>Choose Your Topic</h2>
                 <p>Select a topic to start practicing</p>
@@ -70,27 +72,60 @@
                 </div>
             </div>
         </section>
+        
+        <!-- Mode Selection Section -->
+        <section id="mode-selection" class="section mode-selection-section" style="display: none;">
+            <div class="section-header">
+                <h2>Select Learning Mode</h2>
+                <p>Choose how you want to learn</p>
+            </div>
+            <div class="mode-selection-container">
+                <div class="mode-card" data-mode="preparation">
+                    <div class="mode-icon">📚</div>
+                    <h3>Preparation</h3>
+                    <p>Study questions in modules to build your knowledge</p>
+                    <button class="mode-btn preparation">Start Preparation</button>
+                </div>
+                <div class="mode-card" data-mode="testing">
+                    <div class="mode-icon">✅</div>
+                    <h3>Knowledge Test</h3>
+                    <p>Test your knowledge with random questions</p>
+                    <button class="mode-btn testing">Start Test</button>
+                </div>
+            </div>
+            <button class="back-btn">Back to Topics</button>
+        </section>
+
+        <!-- Modules Section -->
+        <section id="modules" class="section modules-section" style="display: none;">
+            <div class="section-header">
+                <h2>Preparation Modules</h2>
+                <p>Select a module to begin learning</p>
+            </div>
+            <div class="modules-grid">
+                <!-- Module cards will be inserted here dynamically -->
+            </div>
+            <button class="back-btn">Back to Topics</button>
+        </section>
 
         <!-- Quiz Section -->
-        <section id="quiz" class="section quiz-section">
+        <section id="quiz" class="section quiz-section" style="display: none;">
             <div class="quiz-header">
                 <div class="quiz-progress">
-                    <div class="progress-wrapper">
+                    <div class="progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100">
                         <div class="progress-bar"></div>
                     </div>
                     <div class="quiz-stats">
-                        <span class="question-counter"></span>
-                        <span class="accuracy-counter"></span>
+                        <span class="question-counter" aria-live="polite"></span>
+                        <span class="accuracy-counter" aria-live="polite"></span>
                     </div>
                 </div>
-                <button class="exit-quiz" aria-label="Exit quiz">
-                    <span>✕</span>
-                </button>
+                <button class="exit-quiz" aria-label="Exit quiz" data-action="exit">✕</button>
             </div>
             
             <div class="quiz-content">
                 <div class="question-container">
-                    <span class="question-number">Question 1</span>
+                    <span class="question-number"></span>
                     <h2 class="question-text"></h2>
                 </div>
                 
@@ -112,7 +147,7 @@
         </section>
 
         <!-- Results Section -->
-        <section id="results" class="section results-section">
+        <section id="results" class="section results-section" style="display: none;">
             <div class="results-container">
                 <div class="results-header">
                     <h2>Quiz Results</h2>
@@ -165,6 +200,8 @@
                 </div>
             </div>
         </section>
+        
+        <!-- Mode Selection Overlay - This will be injected dynamically -->
     </main>
 
     <footer class="footer">
