@@ -1,0 +1,1119 @@
+[
+    {
+      "question": "Q1: 20 years ago, E's age was one-sixth of his present age. What is E's present age?",
+      "answer": "120 years",
+      "options": [
+        "90 years",
+        "120 years",
+        "150 years",
+        "180 years"
+      ],
+      "explanation": "Let E's present age be x. According to the given condition, x - 20 = (1/6) * x. Solving this equation gives x = 120. Hence, E's present age = 120 years."
+    },
+    {
+      "question": "Q2: A mother is twice as old as her daughter. After 20 years, the age of the mother will be three times that of her daughter. What are their present ages?",
+      "answer": "40 years, 20 years",
+      "options": [
+        "30 years, 15 years",
+        "40 years, 20 years",
+        "50 years, 25 years",
+        "60 years, 30 years"
+      ],
+      "explanation": "Let the present age of the daughter be x years. Then, the present age of the mother = 2x years. According to the given conditions, (2x + 20) = 3 * (x + 20). Solving this equation gives x = 20. Therefore, the present ages of the mother and the daughter are 40 years and 20 years respectively."
+    },
+    {
+      "question": "Q3: 18 years ago, F's age was one-seventh of his present age. What is F's present age?",
+      "answer": "126 years",
+      "options": [
+        "108 years",
+        "126 years",
+        "144 years",
+        "162 years"
+      ],
+      "explanation": "Let F's present age be x. According to the given condition, x - 18 = (1/7) * x. Solving this equation gives x = 126. Hence, F's present age = 126 years."
+    },
+    {
+      "question": "Q4: John is twice as old as Peter. If the sum of their ages is 36, how old is John?",
+      "answer": "20",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "explanation": "Let Bob's age be x. Then Alice's age is x + 5. Given that x + (x + 5) = 35. Solving this equation, we find x = 15, so Alice is x + 5 = 20 years old.",
+      "__v": 0
+    },
+    {
+      "question": "Q5: The ratio of B's present age to his age after 7 years is 3:5. What is B's present age?",
+      "answer": "10",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "explanation": "Let B's present age be x. Given that x / (x + 7) = 3 / 5, solving for x gives x = 10.5. Approximating to the nearest whole number, B's age is 10 years.",
+      "__v": 1
+    },
+    {
+      "question": "Q6: The product of ages of D and E is 1350. If the ratio of their ages is 3:5, what is E's age?",
+      "answer": "47",
+      "options": [
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "explanation": "Let D's age be 3x and E's age be 5x. Since (3x)(5x) = 1350, solving for x gives x ≈ 9.49. Thus, E's age is approximately 47.",
+      "__v": 2
+    },
+    {
+      "question": "Q7: The ratio of R's present age to his age after 65 years is 19:37. What is R's present age?",
+      "answer": "57 years",
+      "options": [
+        "52 years",
+        "57 years",
+        "62 years",
+        "67 years"
+      ],
+      "explanation": "Let R's present age be 19x. According to the given condition, (19x + 65) / 19x = 37 / 19. Solving this equation gives x = 6. Hence, R's present age = 19 * 6 = 114 years."
+    },
+    {
+      "question": "Q8: 60 years ago, Z's age was one-twenty-seventh of his present age. What is Z's present age?",
+      "answer": "1620 years",
+      "options": [
+        "1572 years",
+        "1620 years",
+        "1668 years",
+        "1716 years"
+      ],
+      "explanation": "Let Z's present age be x. According to the given condition, x - 60 = (1/27) * x. Solving this equation gives x = 1620. Hence, Z's present age = 1620 years."
+    },
+    {
+      "question": "Q9: The sum of ages of L and M is 110 years. If the ratio of their ages is 4:7, what is M's age?",
+      "answer": "77 years",
+      "options": [
+        "70 years",
+        "75 years",
+        "77 years",
+        "80 years"
+      ],
+      "explanation": "Let the ages of L and M be 4x and 7x, respectively. Given that 4x + 7x = 110. Solving this equation gives x = 10. Hence, M's age = 7 * 10 = 77 years."
+    },
+    {
+      "question": "Q10: The product of ages of D and E is 1350. If the ratio of their ages is 3:5, what is E's age?",
+      "answer": "47",
+      "options": [
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "explanation": "Let D's age be 3x and E's age be 5x. Since (3x)(5x) = 1350, solving for x gives x ≈ 9.49. Thus, E's age is approximately 47.",
+      "__v": 2
+    },
+    {
+      "question": "Q11: A person’s age is three times the sum of the ages of his two sons. After 5 years, his age will be double the sum of their ages. What is the person’s current age?",
+      "answer": "45",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "explanation": "Let the sum of the sons' ages be x. Solving 3x + 5 = 2(x + 10) gives x = 15. The person’s current age is 45.",
+      "__v": 0
+    },
+    {
+      "question": "Q12: 52 years ago, V's age was one-twenty-third of his present age. What is V's present age?",
+      "answer": "1196 years",
+      "options": [
+        "1152 years",
+        "1196 years",
+        "1240 years",
+        "1284 years"
+      ],
+      "explanation": "Let V's present age be x. According to the given condition, x - 52 = (1/23) * x. Solving this equation gives x = 1196. Hence, V's present age = 1196 years."
+    },
+    {
+      "question": "Q13: 28 years ago, J's age was one-eleventh of his present age. What is J's present age?",
+      "answer": "308 years",
+      "options": [
+        "280 years",
+        "308 years",
+        "336 years",
+        "364 years"
+      ],
+      "explanation": "Let J's present age be x. According to the given condition, x - 28 = (1/11) * x. Solving this equation gives x = 308. Hence, J's present age = 308 years."
+    },
+    {
+      "question": "Q14: The product of ages of J and K is 768. If the ratio of their ages is 3:4, what is K's age?",
+      "answer": "32 years",
+      "options": [
+        "24 years",
+        "28 years",
+        "30 years",
+        "32 years"
+      ],
+      "explanation": "Let the ages of J and K be 3x and 4x, respectively. Given that (3x) * (4x) = 768. This simplifies to 12x² = 768 ⟹ x² = 64 ⟹ x = 8. Therefore, J's age = 3 * 8 = 24 years and K's age = 4 * 8 = 32 years.",
+      "__v": 1
+    },
+    {
+      "question": "Q15: 42 years ago, Y's age was one-twenty-sixth of his present age. What is Y's present age?",
+      "answer": "1092 years",
+      "options": [
+        "1056 years",
+        "1092 years",
+        "1128 years",
+        "1164 years"
+      ],
+      "explanation": "Let Y's present age be x. According to the given condition, x - 42 = (1/26) * x. Solving this equation gives x = 1092. Hence, Y's present age = 1092 years."
+    },
+    {
+      "question": "Q16: The average age of a family of 5 members 10 years ago was 30 years. If the present average age of the family is 40 years, what is the age of the youngest member now?",
+      "answer": "30 years",
+      "options": [
+        "25 years",
+        "28 years",
+        "30 years",
+        "32 years"
+      ],
+      "explanation": "Let the present age of the youngest member be x years. 10 years ago, the total age of the family was (30 * 5) - (5 * 10) = 150 - 50 = 100 years. Present total age = 40 * 5 = 200 years. Hence, the youngest member's age = 200 - 100 = 100 - x = x - 30. Therefore, x = 30 years."
+    },
+    {
+      "question": "Q17: The sum of ages of P and Q is 72 years. If the ratio of their ages is 4:3, what is P's age?",
+      "answer": "36 years",
+      "options": [
+        "30 years",
+        "36 years",
+        "40 years",
+        "45 years"
+      ],
+      "explanation": "Let the ages of P and Q be 4x and 3x, respectively. Given that 4x + 3x = 72. Solving this equation gives x = 12. Hence, P's age = 4 * 12 = 36 years."
+    },
+    {
+      "question": "Q18: A mother is twice as old as her son. After 6 years, her age will be three times the age of her son. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of the son be x years. Then, the present age of the mother = 2x years. According to the given conditions, 2x + 6 = 3 * (x + 6). Solving this equation gives x = 6. Therefore, the present ages of the mother and the son are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q19: 15 years ago, D's age was one-fifth of his present age. What is D's present age?",
+      "answer": "75 years",
+      "options": [
+        "60 years",
+        "75 years",
+        "90 years",
+        "105 years"
+      ],
+      "explanation": "Let D's present age be x. According to the given condition, x - 15 = (1/5) * x. Solving this equation gives x = 75. Hence, D's present age = 75 years."
+    },
+    {
+      "question": "Q20: The ratio of I's present age to his age after 22 years is 10:19. What is I's present age?",
+      "answer": "30 years",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "explanation": "Let I's present age be 10x. According to the given condition, (10x + 22) / 10x = 19 / 10. Solving this equation gives x = 8. Hence, I's present age = 10 * 8 = 80 years."
+    },
+    {
+      "question": "Q21: The age of the father 10 years ago was thrice the age of his son. After 10 years, the age of the father will be twice that of his son. What are their present ages?",
+      "answer": "40 years, 20 years",
+      "options": [
+        "35 years, 25 years",
+        "40 years, 20 years",
+        "45 years, 15 years",
+        "50 years, 10 years"
+      ],
+      "explanation": "Let the present age of the father be x years and the present age of the son be y years. According to the given conditions, (x - 10) = 3 * (y - 10) and (x + 10) = 2 * (y + 10). Solving these equations gives x = 40 and y = 20. Therefore, the present ages of the father and the son are 40 years and 20 years respectively."
+    },
+    {
+      "question": "Q22: The ratio of R's present age to his age after 65 years is 19:37. What is R's present age?",
+      "answer": "57 years",
+      "options": [
+        "52 years",
+        "57 years",
+        "62 years",
+        "67 years"
+      ],
+      "explanation": "Let R's present age be 19x. According to the given condition, (19x + 65) / 19x = 37 / 19. Solving this equation gives x = 6. Hence, R's present age = 19 * 6 = 114 years."
+    },
+    {
+      "question": "Q23: The product of ages of L and M is 819. If the ratio of their ages is 5:9, what is M's age?",
+      "answer": "27 years",
+      "options": [
+        "21 years",
+        "24 years",
+        "27 years",
+        "30 years"
+      ],
+      "explanation": "Let the ages of L and M be 5x and 9x, respectively. Given that 5x * 9x = 819. Solving this equation gives x = 3. Hence, M's age = 9 * 3 = 27 years."
+    },
+    {
+      "question": "Q24: 38 years ago, Q's age was one-eighteenth of his present age. What is Q's present age?",
+      "answer": "684 years",
+      "options": [
+        "648 years",
+        "684 years",
+        "720 years",
+        "756 years"
+      ],
+      "explanation": "Let Q's present age be x. According to the given condition, x - 38 = (1/18) * x. Solving this equation gives x = 684. Hence, Q's present age = 684 years."
+    },
+    {
+      "question": "Q25: The average age of a group of 5 students is 20 years. If the age of the teacher is included, the average increases by 5 years. What is the age of the teacher?",
+      "answer": "45 years",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "explanation": "The total age of the students = 20 * 5 = 100 years. Let the age of the teacher be x years. According to the given conditions, (100 + x) / 6 = 25. Solving this equation gives x = 45. Therefore, the age of the teacher = 45 years."
+    },
+    {
+      "question": "Q26: 36 years ago, U's age was one-twenty-second of his present age. What is U's present age?",
+      "answer": "792 years",
+      "options": [
+        "756 years",
+        "792 years",
+        "828 years",
+        "864 years"
+      ],
+      "explanation": "Let U's present age be x. According to the given condition, x - 36 = (1/22) * x. Solving this equation gives x = 792. Hence, U's present age = 792 years."
+    },
+    {
+      "question": "Q27: The ratio of N's present age to his age after 45 years is 15:29. What is N's present age?",
+      "answer": "45 years",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "explanation": "Let N's present age be 15x. According to the given condition, (15x + 45) / 15x = 29 / 15. Solving this equation gives x = 4. Hence, N's present age = 15 * 4 = 60 years."
+    },
+    {
+      "question": "Q28: The sum of ages of P and Q is 72 years. If the ratio of their ages is 4:3, what is P's age?",
+      "answer": "36 years",
+      "options": [
+        "30 years",
+        "36 years",
+        "40 years",
+        "45 years"
+      ],
+      "explanation": "Let the ages of P and Q be 4x and 3x, respectively. Given that 4x + 3x = 72. Solving this equation gives x = 12. Hence, P's age = 4 * 12 = 36 years."
+    },
+    {
+      "question": "Q29: The age of the father 10 years ago was thrice the age of his son. After 10 years, the age of the father will be twice that of his son. What are their present ages?",
+      "answer": "40 years, 20 years",
+      "options": [
+        "35 years, 25 years",
+        "40 years, 20 years",
+        "45 years, 15 years",
+        "50 years, 10 years"
+      ],
+      "explanation": "Let the present age of the father be x years and the present age of the son be y years. According to the given conditions, (x - 10) = 3 * (y - 10) and (x + 10) = 2 * (y + 10). Solving these equations gives x = 40 and y = 20. Therefore, the present ages of the father and the son are 40 years and 20 years respectively."
+    },
+    {
+      "question": "Q30: The present age of A is twice the age of B. If the age of B was 4 years more, then the present age of A is 10 years more than thrice the age of B. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of B be x years. Then, the present age of A = 2x years. According to the given conditions, 2x = 3 * (x + 4) + 10. Solving this equation gives x = 12. Therefore, the present ages of A and B are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q31: The product of ages of A and B is 240. If the ratio of their ages is 3:5, what is B's age?",
+      "answer": "40 years",
+      "options": [
+        "20 years",
+        "30 years",
+        "40 years",
+        "60 years"
+      ],
+      "explanation": "Let the ages of A and B be 3x and 5x, respectively. Given that 3x * 5x = 240. Solving this equation gives x = 4. Hence, B's age = 5 * 4 = 20 years."
+    },
+    {
+      "question": "Q32: 8 years ago, C's age was one-fourth of his present age. What is C's present age?",
+      "answer": "32 years",
+      "options": [
+        "24 years",
+        "32 years",
+        "40 years",
+        "48 years"
+      ],
+      "explanation": "Let C's present age be x. According to the given condition, x - 8 = (1/4) * x. Solving this equation gives x = 32. Hence, C's present age = 32 years."
+    },
+    {
+      "question": "Q33: 28 years ago, J's age was one-eleventh of his present age. What is J's present age?",
+      "answer": "308 years",
+      "options": [
+        "280 years",
+        "308 years",
+        "336 years",
+        "364 years"
+      ],
+      "explanation": "Let J's present age be x. According to the given condition, x - 28 = (1/11) * x. Solving this equation gives x = 308. Hence, J's present age = 308 years."
+    },
+    {
+      "question": "Q34: A mother is twice as old as her son. After 6 years, her age will be three times the age of her son. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of the son be x years. Then, the present age of the mother = 2x years. According to the given conditions, 2x + 6 = 3 * (x + 6). Solving this equation gives x = 6. Therefore, the present ages of the mother and the son are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q35: A person’s age is three times the sum of the ages of his two sons. After 5 years, his age will be double the sum of their ages. What is the person’s current age?",
+      "answer": "45",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "explanation": "Let the sum of the sons' ages be x. Solving 3x + 5 = 2(x + 10) gives x = 15. The person’s current age is 45.",
+      "__v": 0
+    },
+    {
+      "question": "Q36: 28 years ago, J's age was one-eleventh of his present age. What is J's present age?",
+      "answer": "308 years",
+      "options": [
+        "280 years",
+        "308 years",
+        "336 years",
+        "364 years"
+      ],
+      "explanation": "Let J's present age be x. According to the given condition, x - 28 = (1/11) * x. Solving this equation gives x = 308. Hence, J's present age = 308 years."
+    },
+    {
+      "question": "Q37: 52 years ago, V's age was one-twenty-third of his present age. What is V's present age?",
+      "answer": "1196 years",
+      "options": [
+        "1152 years",
+        "1196 years",
+        "1240 years",
+        "1284 years"
+      ],
+      "explanation": "Let V's present age be x. According to the given condition, x - 52 = (1/23) * x. Solving this equation gives x = 1196. Hence, V's present age = 1196 years."
+    },
+    {
+      "question": "Q38: The sum of ages of P and Q is 72 years. If the ratio of their ages is 4:3, what is P's age?",
+      "answer": "36 years",
+      "options": [
+        "30 years",
+        "36 years",
+        "40 years",
+        "45 years"
+      ],
+      "explanation": "Let the ages of P and Q be 4x and 3x, respectively. Given that 4x + 3x = 72. Solving this equation gives x = 12. Hence, P's age = 4 * 12 = 36 years."
+    },
+    {
+      "question": "Q39: The ratio of I's present age to his age after 22 years is 10:19. What is I's present age?",
+      "answer": "30 years",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "explanation": "Let I's present age be 10x. According to the given condition, (10x + 22) / 10x = 19 / 10. Solving this equation gives x = 8. Hence, I's present age = 10 * 8 = 80 years."
+    },
+    {
+      "question": "Q40: The age of the father 10 years ago was thrice the age of his son. After 10 years, the age of the father will be twice that of his son. What are their present ages?",
+      "answer": "40 years, 20 years",
+      "options": [
+        "35 years, 25 years",
+        "40 years, 20 years",
+        "45 years, 15 years",
+        "50 years, 10 years"
+      ],
+      "explanation": "Let the present age of the father be x years and the present age of the son be y years. According to the given conditions, (x - 10) = 3 * (y - 10) and (x + 10) = 2 * (y + 10). Solving these equations gives x = 40 and y = 20. Therefore, the present ages of the father and the son are 40 years and 20 years respectively."
+    },
+    {
+      "question": "Q41: The average age of a group of 5 students is 20 years. If the age of the teacher is included, the average increases by 5 years. What is the age of the teacher?",
+      "answer": "45 years",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "explanation": "The total age of the students = 20 * 5 = 100 years. Let the age of the teacher be x years. According to the given conditions, (100 + x) / 6 = 25. Solving this equation gives x = 45. Therefore, the age of the teacher = 45 years."
+    },
+    {
+      "question": "Q42: The sum of the present ages of A and B is 60 years. Four years ago, the ratio of their ages was 1:3. What are their present ages?",
+      "answer": "24 years, 36 years",
+      "options": [
+        "20 years, 40 years",
+        "24 years, 36 years",
+        "30 years, 30 years",
+        "32 years, 28 years"
+      ],
+      "explanation": "Let the present age of A be x years and the present age of B be y years. According to the given conditions, (x + y) = 60 and (x - 4) / (y - 4) = 1 / 3. Solving these equations gives x = 24 and y = 36. Therefore, the present ages of A and B are 24 years and 36 years respectively."
+    },
+    {
+      "question": "Q43: The ratio of J's present age to his age after 25 years is 11:21. What is J's present age?",
+      "answer": "33 years",
+      "options": [
+        "28 years",
+        "33 years",
+        "38 years",
+        "43 years"
+      ],
+      "explanation": "Let J's present age be 11x. According to the given condition, (11x + 25) / 11x = 21 / 11. Solving this equation gives x = 4. Hence, J's present age = 11 * 4 = 44 years."
+    },
+    {
+      "question": "Q44: A person’s age is three times the sum of the ages of his two sons. After 5 years, his age will be double the sum of their ages. What is the person’s current age?",
+      "answer": "45",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "explanation": "Let the sum of the sons' ages be x. Solving 3x + 5 = 2(x + 10) gives x = 15. The person’s current age is 45.",
+      "__v": 0
+    },
+    {
+      "question": "Q45: The average age of a family of 5 members 10 years ago was 30 years. If the present average age of the family is 40 years, what is the age of the youngest member now?",
+      "answer": "30 years",
+      "options": [
+        "25 years",
+        "28 years",
+        "30 years",
+        "32 years"
+      ],
+      "explanation": "Let the present age of the youngest member be x years. 10 years ago, the total age of the family was (30 * 5) - (5 * 10) = 150 - 50 = 100 years. Present total age = 40 * 5 = 200 years. Hence, the youngest member's age = 200 - 100 = 100 - x = x - 30. Therefore, x = 30 years."
+    },
+    {
+      "question": "Q46: A mother is twice as old as her son. After 6 years, her age will be three times the age of her son. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of the son be x years. Then, the present age of the mother = 2x years. According to the given conditions, 2x + 6 = 3 * (x + 6). Solving this equation gives x = 6. Therefore, the present ages of the mother and the son are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q47: The ratio of A's present age to his age after 5 years is 2:3. What is A's present age?",
+      "answer": "10 years",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "20 years"
+      ],
+      "explanation": "Let A's present age be 2x. According to the given condition, (2x + 5) / 2x = 3 / 2. Solving this equation gives x = 5. Hence, A's present age = 2 * 5 = 10 years."
+    },
+    {
+      "question": "Q48: The sum of ages of M and N is 65 years. If the ratio of their ages is 7:5, what is M's age?",
+      "answer": "35 years",
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "45 years"
+      ],
+      "explanation": "Let the ages of M and N be 7x and 5x, respectively. Given that 7x + 5x = 65. Solving this equation gives x = 5. Hence, M's age = 7 * 5 = 35 years."
+    },
+    {
+      "question": "Q49: The product of ages of R and S is 504. If the ratio of their ages is 2:3, what is S's age?",
+      "answer": "36 years",
+      "options": [
+        "24 years",
+        "28 years",
+        "32 years",
+        "36 years"
+      ],
+      "explanation": "Let the ages of R and S be 2x and 3x, respectively. Given that 2x * 3x = 504. Solving this equation gives x = 6. Hence, S's age = 3 * 6 = 18 years."
+    },
+    {
+      "question": "Q50: The product of ages of X and Y is 360. If the ratio of their ages is 2:3, what is Y's age?",
+      "answer": "45 years",
+      "options": [
+        "15 years",
+        "30 years",
+        "45 years",
+        "60 years"
+      ],
+      "explanation": "Let the ages of X and Y be 2x and 3x, respectively. Given that 2x * 3x = 360. Solving this equation gives x = 6. Hence, Y's age = 3 * 6 = 18 years."
+    },
+    {
+      "question": "Q51: A mother is twice as old as her daughter. After 20 years, the age of the mother will be three times that of her daughter. What are their present ages?",
+      "answer": "40 years, 20 years",
+      "options": [
+        "30 years, 15 years",
+        "40 years, 20 years",
+        "50 years, 25 years",
+        "60 years, 30 years"
+      ],
+      "explanation": "Let the present age of the daughter be x years. Then, the present age of the mother = 2x years. According to the given conditions, (2x + 20) = 3 * (x + 20). Solving this equation gives x = 20. Therefore, the present ages of the mother and the daughter are 40 years and 20 years respectively."
+    },
+    {
+      "question": "Q52: 42 years ago, Y's age was one-twenty-sixth of his present age. What is Y's present age?",
+      "answer": "1092 years",
+      "options": [
+        "1056 years",
+        "1092 years",
+        "1128 years",
+        "1164 years"
+      ],
+      "explanation": "Let Y's present age be x. According to the given condition, x - 42 = (1/26) * x. Solving this equation gives x = 1092. Hence, Y's present age = 1092 years."
+    },
+    {
+      "question": "Q53: 36 years ago, U's age was one-twenty-second of his present age. What is U's present age?",
+      "answer": "792 years",
+      "options": [
+        "756 years",
+        "792 years",
+        "828 years",
+        "864 years"
+      ],
+      "explanation": "Let U's present age be x. According to the given condition, x - 36 = (1/22) * x. Solving this equation gives x = 792. Hence, U's present age = 792 years."
+    },
+    {
+      "question": "Q54: 22 years ago, I's age was one-tenth of his present age. What is I's present age?",
+      "answer": "220 years",
+      "options": [
+        "200 years",
+        "220 years",
+        "240 years",
+        "260 years"
+      ],
+      "explanation": "Let I's present age be x. According to the given condition, x - 22 = (1/10) * x. Solving this equation gives x = 220. Hence, I's present age = 220 years."
+    },
+    {
+      "question": "Q55: The present age of A is twice the age of B. If the age of B was 4 years more, then the present age of A is 10 years more than thrice the age of B. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of B be x years. Then, the present age of A = 2x years. According to the given conditions, 2x = 3 * (x + 4) + 10. Solving this equation gives x = 12. Therefore, the present ages of A and B are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q56: John is twice as old as Peter. If the sum of their ages is 36, how old is John?",
+      "answer": "20",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "explanation": "Let Bob's age be x. Then Alice's age is x + 5. Given that x + (x + 5) = 35. Solving this equation, we find x = 15, so Alice is x + 5 = 20 years old.",
+      "__v": 0
+    },
+    {
+      "question": "Q57: 30 years ago, H's age was one-ninth of his present age. What is H's present age?",
+      "answer": "270 years",
+      "options": [
+        "240 years",
+        "270 years",
+        "300 years",
+        "330 years"
+      ],
+      "explanation": "Let H's present age be x. According to the given condition, x - 30 = (1/9) * x. Solving this equation gives x = 270. Hence, H's present age = 270 years."
+    },
+    {
+      "question": "Q58: The product of ages of F and G is 560. If the ratio of their ages is 3:4, what is G's age?",
+      "answer": "28",
+      "options": [
+        "20",
+        "24",
+        "28",
+        "30"
+      ],
+      "explanation": "Let F's age be 3x and G's age be 4x. Given that (3x) * (4x) = 560, solving for x, we get x = 7. So, G's age is 4 × 7 = 28.",
+      "__v": 1
+    },
+    {
+      "question": "Q59: 40 years ago, N's age was one-fifteenth of his present age. What is N's present age?",
+      "answer": "600 years",
+      "options": [
+        "540 years",
+        "600 years",
+        "660 years",
+        "720 years"
+      ],
+      "explanation": "Let N's present age be x. According to the given condition, x - 40 = (1/15) * x. Solving this equation gives x = 600. Hence, N's present age = 600 years."
+    },
+    {
+      "question": "Q60: The sum of ages of J and K is 150 years. If the ratio of their ages is 5:6, what is K's age?",
+      "answer": "90 years",
+      "options": [
+        "80 years",
+        "85 years",
+        "90 years",
+        "95 years"
+      ],
+      "explanation": "Let the ages of J and K be 5x and 6x, respectively. Given that 5x + 6x = 150. Solving this equation gives x = 15. Hence, K's age = 6 * 15 = 90 years."
+    },
+    {
+      "question": "Q61: The ratio of G's present age to his age after 18 years is 8:15. What is G's present age?",
+      "answer": "21",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "explanation": "Let G's present age be x. Given that x / (x + 18) = 8/15, solving for x gives approximately 20.57, which rounds to 21.",
+      "__v": 1
+    },
+    {
+      "question": "Q62: The ratio of P's present age to his age after 55 years is 17:33. What is P's present age?",
+      "answer": "51 years",
+      "options": [
+        "46 years",
+        "51 years",
+        "56 years",
+        "61 years"
+      ],
+      "explanation": "Let P's present age be 17x. According to the given condition, (17x + 55) / 17x = 33 / 17. Solving this equation gives x = 6. Hence, P's present age = 17 * 6 = 102 years."
+    },
+    {
+      "question": "Q63: The ratio of R's present age to his age after 65 years is 19:37. What is R's present age?",
+      "answer": "57 years",
+      "options": [
+        "52 years",
+        "57 years",
+        "62 years",
+        "67 years"
+      ],
+      "explanation": "Let R's present age be 19x. According to the given condition, (19x + 65) / 19x = 37 / 19. Solving this equation gives x = 6. Hence, R's present age = 19 * 6 = 114 years."
+    },
+    {
+      "question": "Q64: The ratio of Q's present age to his age after 60 years is 18:35. What is Q's present age?",
+      "answer": "54 years",
+      "options": [
+        "49 years",
+        "54 years",
+        "59 years",
+        "64 years"
+      ],
+      "explanation": "Let Q's present age be 18x. According to the given condition, (18x + 60) / 18x = 35 / 18. Solving this equation gives x = 6. Hence, Q's present age = 18 * 6 = 108 years."
+    },
+    {
+      "question": "Q65: 60 years ago, Z's age was one-twenty-seventh of his present age. What is Z's present age?",
+      "answer": "1620 years",
+      "options": [
+        "1572 years",
+        "1620 years",
+        "1668 years",
+        "1716 years"
+      ],
+      "explanation": "Let Z's present age be x. According to the given condition, x - 60 = (1/27) * x. Solving this equation gives x = 1620. Hence, Z's present age = 1620 years."
+    },
+    {
+      "question": "Q66: The ratio of B's present age to his age after 7 years is 3:5. What is B's present age?",
+      "answer": "10",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "explanation": "Let B's present age be x. Given that x / (x + 7) = 3 / 5, solving for x gives x = 10.5. Approximating to the nearest whole number, B's age is 10 years.",
+      "__v": 1
+    },
+    {
+      "question": "Q67: 24 years ago, L's age was one-thirteenth of his present age. What is L's present age?",
+      "answer": "312 years",
+      "options": [
+        "288 years",
+        "312 years",
+        "336 years",
+        "360 years"
+      ],
+      "explanation": "Let L's present age be x. According to the given condition, x - 24 = (1/13) * x. Solving this equation gives x = 312. Hence, L's present age = 312 years."
+    },
+    {
+      "question": "Q68: The sum of ages of H and I is 100 years. If the ratio of their ages is 3:5, what is I's age?",
+      "answer": "50 years",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "explanation": "Let the ages of H and I be 3x and 5x, respectively. Given that 3x + 5x = 100. Solving this equation gives x = 10. Hence, I's age = 5 * 10 = 50 years."
+    },
+    {
+      "question": "Q69: John is twice as old as Peter. If the sum of their ages is 36, how old is John?",
+      "answer": "20",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "explanation": "Let Bob's age be x. Then Alice's age is x + 5. Given that x + (x + 5) = 35. Solving this equation, we find x = 15, so Alice is x + 5 = 20 years old.",
+      "__v": 0
+    },
+    {
+      "question": "Q70: The product of ages of D and E is 1350. If the ratio of their ages is 3:5, what is E's age?",
+      "answer": "47",
+      "options": [
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "explanation": "Let D's age be 3x and E's age be 5x. Since (3x)(5x) = 1350, solving for x gives x ≈ 9.49. Thus, E's age is approximately 47.",
+      "__v": 2
+    },
+    {
+      "question": "Q71: The ratio of Q's present age to his age after 60 years is 18:35. What is Q's present age?",
+      "answer": "54 years",
+      "options": [
+        "49 years",
+        "54 years",
+        "59 years",
+        "64 years"
+      ],
+      "explanation": "Let Q's present age be 18x. According to the given condition, (18x + 60) / 18x = 35 / 18. Solving this equation gives x = 6. Hence, Q's present age = 18 * 6 = 108 years."
+    },
+    {
+      "question": "Q72: The sum of ages of M and N is 65 years. If the ratio of their ages is 7:5, what is M's age?",
+      "answer": "35 years",
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "45 years"
+      ],
+      "explanation": "Let the ages of M and N be 7x and 5x, respectively. Given that 7x + 5x = 65. Solving this equation gives x = 5. Hence, M's age = 7 * 5 = 35 years."
+    },
+    {
+      "question": "Q73: A's age is 4 years more than twice the age of B. If the total of their ages is 62 years, what is the age of A?",
+      "answer": "38 years",
+      "options": [
+        "34 years",
+        "36 years",
+        "38 years",
+        "40 years"
+      ],
+      "explanation": "Let the age of B be x years. Then, the age of A = (2x + 4) years. According to the given conditions, (2x + 4) + x = 62. Solving this equation gives x = 19. Therefore, the age of A = (2 * 19) + 4 = 38 years."
+    },
+    {
+      "question": "Q74: 40 years ago, W's age was one-twenty-fourth of his present age. What is W's present age?",
+      "answer": "960 years",
+      "options": [
+        "920 years",
+        "960 years",
+        "1000 years",
+        "1040 years"
+      ],
+      "explanation": "Let W's present age be x. According to the given condition, x - 40 = (1/24) * x. Solving this equation gives x = 960. Hence, W's present age = 960 years."
+    },
+    {
+      "question": "Q75: 36 years ago, U's age was one-twenty-second of his present age. What is U's present age?",
+      "answer": "792 years",
+      "options": [
+        "756 years",
+        "792 years",
+        "828 years",
+        "864 years"
+      ],
+      "explanation": "Let U's present age be x. According to the given condition, x - 36 = (1/22) * x. Solving this equation gives x = 792. Hence, U's present age = 792 years."
+    },
+    {
+      "question": "Q76: 12 years ago, B's age was one-third of his present age. What is B's present age?",
+      "answer": "36 years",
+      "options": [
+        "30 years",
+        "36 years",
+        "42 years",
+        "48 years"
+      ],
+      "explanation": "Let B's present age be x. According to the given condition, x - 12 = (1/3) * x. Solving this equation gives x = 36. Hence, B's present age = 36 years."
+    },
+    {
+      "question": "Q77: The ratio of R's present age to his age after 65 years is 19:37. What is R's present age?",
+      "answer": "57 years",
+      "options": [
+        "52 years",
+        "57 years",
+        "62 years",
+        "67 years"
+      ],
+      "explanation": "Let R's present age be 19x. According to the given condition, (19x + 65) / 19x = 37 / 19. Solving this equation gives x = 6. Hence, R's present age = 19 * 6 = 114 years."
+    },
+    {
+      "question": "Q78: 30 years ago, H's age was one-ninth of his present age. What is H's present age?",
+      "answer": "270 years",
+      "options": [
+        "240 years",
+        "270 years",
+        "300 years",
+        "330 years"
+      ],
+      "explanation": "Let H's present age be x. According to the given condition, x - 30 = (1/9) * x. Solving this equation gives x = 270. Hence, H's present age = 270 years."
+    },
+    {
+      "question": "Q79: The product of ages of M and N is 600. If the ratio of their ages is 5:8, what is N's age?",
+      "answer": "48 years",
+      "options": [
+        "32 years",
+        "36 years",
+        "40 years",
+        "48 years"
+      ],
+      "explanation": "Let the ages of M and N be 5x and 8x, respectively. Given that 5x * 8x = 600. Solving this equation gives x = 3. Hence, N's age = 8 * 3 = 24 years."
+    },
+    {
+      "question": "Q80: The present age of A is twice the age of B. If the age of B was 4 years more, then the present age of A is 10 years more than thrice the age of B. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of B be x years. Then, the present age of A = 2x years. According to the given conditions, 2x = 3 * (x + 4) + 10. Solving this equation gives x = 12. Therefore, the present ages of A and B are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q81: A mother is twice as old as her son. After 6 years, her age will be three times the age of her son. What are their present ages?",
+      "answer": "24 years, 12 years",
+      "options": [
+        "20 years, 10 years",
+        "24 years, 12 years",
+        "28 years, 14 years",
+        "32 years, 16 years"
+      ],
+      "explanation": "Let the present age of the son be x years. Then, the present age of the mother = 2x years. According to the given conditions, 2x + 6 = 3 * (x + 6). Solving this equation gives x = 6. Therefore, the present ages of the mother and the son are 24 years and 12 years respectively."
+    },
+    {
+      "question": "Q82: 8 years ago, C's age was one-fourth of his present age. What is C's present age?",
+      "answer": "32 years",
+      "options": [
+        "24 years",
+        "32 years",
+        "40 years",
+        "48 years"
+      ],
+      "explanation": "Let C's present age be x. According to the given condition, x - 8 = (1/4) * x. Solving this equation gives x = 32. Hence, C's present age = 32 years."
+    },
+    {
+      "question": "Q83: The ratio of G's present age to his age after 18 years is 8:15. What is G's present age?",
+      "answer": "21",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "explanation": "Let G's present age be x. Given that x / (x + 18) = 8/15, solving for x gives approximately 20.57, which rounds to 21.",
+      "__v": 1
+    },
+    {
+      "question": "Q84: 38 years ago, Q's age was one-eighteenth of his present age. What is Q's present age?",
+      "answer": "684 years",
+      "options": [
+        "648 years",
+        "684 years",
+        "720 years",
+        "756 years"
+      ],
+      "explanation": "Let Q's present age be x. According to the given condition, x - 38 = (1/18) * x. Solving this equation gives x = 684. Hence, Q's present age = 684 years."
+    },
+    {
+      "question": "Q85: The ratio of E's present age to his age after 12 years is 6:11. What is E's present age?",
+      "answer": "18 years",
+      "options": [
+        "14 years",
+        "18 years",
+        "22 years",
+        "26 years"
+      ],
+      "explanation": "Let E's present age be 6x. According to the given condition, (6x + 12) / 6x = 11 / 6. Solving this equation gives x = 3. Hence, E's present age = 6 * 3 = 18 years."
+    },
+    {
+      "question": "Q86: The ratio of the present ages of a father and his son is 4:1. Six years ago, the ratio of their ages was 9:2. What are their present ages?",
+      "answer": "36 years, 9 years",
+      "options": [
+        "32 years, 8 years",
+        "36 years, 9 years",
+        "40 years, 10 years",
+        "44 years, 11 years"
+      ],
+      "explanation": "Let the present age of the father be 4x years and the present age of the son be x years. According to the given conditions, (4x - 6) / (x - 6) = 9 / 2. Solving this equation gives x = 9. Therefore, the present ages of the father and the son are 36 years and 9 years respectively."
+    },
+    {
+      "question": "Q87: The ratio of J's present age to his age after 25 years is 11:21. What is J's present age?",
+      "answer": "33 years",
+      "options": [
+        "28 years",
+        "33 years",
+        "38 years",
+        "43 years"
+      ],
+      "explanation": "Let J's present age be 11x. According to the given condition, (11x + 25) / 11x = 21 / 11. Solving this equation gives x = 4. Hence, J's present age = 11 * 4 = 44 years."
+    },
+    {
+      "question": "Q88: 12 years ago, B's age was one-third of his present age. What is B's present age?",
+      "answer": "36 years",
+      "options": [
+        "30 years",
+        "36 years",
+        "42 years",
+        "48 years"
+      ],
+      "explanation": "Let B's present age be x. According to the given condition, x - 12 = (1/3) * x. Solving this equation gives x = 36. Hence, B's present age = 36 years."
+    },
+    {
+      "question": "Q89: The sum of ages of R and S is 80 years. If the ratio of their ages is 3:4, what is S's age?",
+      "answer": "40 years",
+      "options": [
+        "35 years",
+        "40 years",
+        "45 years",
+        "50 years"
+      ],
+      "explanation": "Let the ages of R and S be 3x and 4x, respectively. Given that 3x + 4x = 80. Solving this equation gives x = 10. Hence, S's age = 4 * 10 = 40 years."
+    },
+    {
+      "question": "Q90: Ten years ago, the age of the father was 5 times the age of his son. If the father's age will be twice the son's age after 10 years, what is the present age of the father?",
+      "answer": "50 years",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "explanation": "Let the present age of the father be x years and the present age of the son be y years. According to the given conditions, (x - 10) = 5 * (y - 10) and (x + 10) = 2 * (y + 10). Solving these equations gives x = 50 and y = 20. Therefore, the present age of the father = 50 years."
+    },
+    {
+      "question": "Q91: Ten years ago, the age of the father was 5 times the age of his son. If the father's age will be twice the son's age after 10 years, what is the present age of the father?",
+      "answer": "50 years",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "explanation": "Let the present age of the father be x years and the present age of the son be y years. According to the given conditions, (x - 10) = 5 * (y - 10) and (x + 10) = 2 * (y + 10). Solving these equations gives x = 50 and y = 20. Therefore, the present age of the father = 50 years."
+    },
+    {
+      "question": "Q92: The product of ages of X and Y is 360. If the ratio of their ages is 2:3, what is Y's age?",
+      "answer": "45 years",
+      "options": [
+        "15 years",
+        "30 years",
+        "45 years",
+        "60 years"
+      ],
+      "explanation": "Let the ages of X and Y be 2x and 3x, respectively. Given that 2x * 3x = 360. Solving this equation gives x = 6. Hence, Y's age = 3 * 6 = 18 years."
+    },
+    {
+      "question": "Q93: The sum of the present ages of A and B is 60 years. Four years ago, the ratio of their ages was 1:3. What are their present ages?",
+      "answer": "24 years, 36 years",
+      "options": [
+        "20 years, 40 years",
+        "24 years, 36 years",
+        "30 years, 30 years",
+        "32 years, 28 years"
+      ],
+      "explanation": "Let the present age of A be x years and the present age of B be y years. According to the given conditions, (x + y) = 60 and (x - 4) / (y - 4) = 1 / 3. Solving these equations gives x = 24 and y = 36. Therefore, the present ages of A and B are 24 years and 36 years respectively."
+    },
+    {
+      "question": "Q94: The ratio of the present ages of a father and his son is 4:1. Six years ago, the ratio of their ages was 9:2. What are their present ages?",
+      "answer": "36 years, 9 years",
+      "options": [
+        "32 years, 8 years",
+        "36 years, 9 years",
+        "40 years, 10 years",
+        "44 years, 11 years"
+      ],
+      "explanation": "Let the present age of the father be 4x years and the present age of the son be x years. According to the given conditions, (4x - 6) / (x - 6) = 9 / 2. Solving this equation gives x = 9. Therefore, the present ages of the father and the son are 36 years and 9 years respectively."
+    },
+    {
+      "question": "Q95: The ratio of H's present age to his age after 20 years is 9:17. What is H's present age?",
+      "answer": "30",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "explanation": "Let H's present age be x. Given that x / (x + 20) = 9 / 17, solving for x gives x = 30. Hence, H's present age is 30 years.",
+      "__v": 1
+    },
+    {
+      "question": "Q96: 10 years ago, A's age was half of his present age. What is A's present age?",
+      "answer": "20 years",
+      "options": [
+        "15 years",
+        "20 years",
+        "25 years",
+        "30 years"
+      ],
+      "explanation": "Let A's present age be x. According to the given condition, x - 10 = (1/2) * x. Solving this equation gives x = 20. Hence, A's present age = 20 years."
+    },
+    {
+      "question": "Q97: John is twice as old as Peter. If the sum of their ages is 36, how old is John?",
+      "answer": "20",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "explanation": "Let Bob's age be x. Then Alice's age is x + 5. Given that x + (x + 5) = 35. Solving this equation, we find x = 15, so Alice is x + 5 = 20 years old.",
+      "__v": 0
+    },
+    {
+      "question": "Q98: 48 years ago, T's age was one-twenty-first of his present age. What is T's present age?",
+      "answer": "1008 years",
+      "options": [
+        "960 years",
+        "1008 years",
+        "1056 years",
+        "1104 years"
+      ],
+      "explanation": "Let T's present age be x. According to the given condition, x - 48 = (1/21) * x. Solving this equation gives x = 1008. Hence, T's present age = 1008 years."
+    },
+    {
+      "question": "Q99: 28 years ago, J's age was one-eleventh of his present age. What is J's present age?",
+      "answer": "308 years",
+      "options": [
+        "280 years",
+        "308 years",
+        "336 years",
+        "364 years"
+      ],
+      "explanation": "Let J's present age be x. According to the given condition, x - 28 = (1/11) * x. Solving this equation gives x = 308. Hence, J's present age = 308 years."
+    },
+    {
+      "question": "Q100: The age of the father 10 years ago was thrice the age of his son. After 10 years, the age of the father will be twice that of his son. What are their present ages?",
+      "answer": "40 years, 20 years",
+      "options": [
+        "35 years, 25 years",
+        "40 years, 20 years",
+        "45 years, 15 years",
+        "50 years, 10 years"
+      ],
+      "explanation": "Let the present age of the father be x years and the present age of the son be y years. According to the given conditions, (x - 10) = 3 * (y - 10) and (x + 10) = 2 * (y + 10). Solving these equations gives x = 40 and y = 20. Therefore, the present ages of the father and the son are 40 years and 20 years respectively."
+    }
+  ]

@@ -1,0 +1,1110 @@
+[
+    {
+      "question": "Q1: If 10th November 2000 was Thursday, what day of the week was 10th November 2010?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 2000 and 2010. Since 10 years have passed, the day will be 1 day behind Thursday, which is Wednesday."
+    },
+    {
+      "question": "Q2: If today is Friday, what day was it 6 days ago?",
+      "answer": "Saturday",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Saturday"
+      ],
+      "explanation": "If today is Friday, 6 days ago, it was Saturday."
+    },
+    {
+      "question": "Q3: If December 1, 2023, falls on a Friday, what day of the week will December 31, 2023, be?",
+      "answer": "Sunday",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "explanation": "December 2023 has 31 days. Since December 1 is a Friday, counting 30 more days forward gives (30 % 7 = 2 extra days). So, December 31 falls on a Sunday.",
+      "__v": 1
+    },
+    {
+      "question": "Q4: If today is Tuesday, what day was it 2 days ago?",
+      "answer": "Sunday",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Tuesday, 2 days ago, it was Sunday."
+    },
+    {
+      "question": "Q5: What day will be on 1st January 3500?",
+      "answer": "Monday",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "explanation": "1st January 3500 will be a Monday."
+    },
+    {
+      "question": "Q6: If March 1, 2024, falls on a Friday, what day of the week will March 31, 2024, be?",
+      "answer": "Sunday",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "explanation": "March has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Friday gives us Sunday."
+    },
+    {
+      "question": "Q7: If 1st January 2020 was Wednesday, what day of the week will be 1st January 2025?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 5 years between 2020 and 2025. Since there is no leap year between these years, the same pattern of days will continue. So, 1st January 2025 will also be Wednesday."
+    },
+    {
+      "question": "Q8: If today is Tuesday, what day will it be after 1 week?",
+      "answer": "Tuesday",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "explanation": "If today is Tuesday, after 1 week, it will still be Tuesday."
+    },
+    {
+      "question": "Q9: If 20th April 1999 was Tuesday, what day of the week was 20th April 2009?",
+      "answer": "Monday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 1999 and 2009. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+    },
+    {
+      "question": "Q10: If tomorrow is Wednesday, what day was it yesterday?",
+      "answer": "Monday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Thursday",
+        "Friday"
+      ],
+      "explanation": "If tomorrow is Wednesday, then yesterday was Monday."
+    },
+    {
+      "question": "Q11: If 25th December 1990 was Tuesday, what day of the week was 25th December 2000?",
+      "answer": "Monday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 1990 and 2000. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+    },
+    {
+      "question": "Q12: If January 1, 2023, falls on a Sunday, what day of the week will January 31, 2023, be?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "January has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Sunday gives us Tuesday."
+    },
+    {
+      "question": "Q13: If April 1, 2024, falls on a Saturday, what day of the week will April 30, 2024, be?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "April has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Saturday gives us Tuesday."
+    },
+    {
+      "question": "Q14: Today is Monday. After 61 days, it will be:",
+      "answer": "Saturday",
+      "options": [
+        "Wednesday",
+        "Saturday",
+        "Tuesday",
+        "Thursday"
+      ],
+      "explanation": "Each day of the week is repeated after 7 days. After 63 days, it will be Monday. So, after 61 days, it will be Saturday.",
+      "__v": 0
+    },
+    {
+      "question": "Q15: If 10th November 2000 was Thursday, what day of the week was 10th November 2010?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 2000 and 2010. Since 10 years have passed, the day will be 1 day behind Thursday, which is Wednesday."
+    },
+    {
+      "question": "Q16: How many odd days are there in a normal year?",
+      "answer": "1",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "In a normal year, there is 1 odd day."
+    },
+    {
+      "question": "Q17: How many odd days are there in 400 years?",
+      "answer": "0",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "400 years have 0 odd days."
+    },
+    {
+      "question": "Q18: How many odd days are there in 700 years?",
+      "answer": "1",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "700 years have 1 odd day."
+    },
+    {
+      "question": "Q19: If August 1, 2024, falls on a Thursday, what day of the week will August 31, 2024, be?",
+      "answer": "Saturday",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "explanation": "August has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Thursday gives us Saturday."
+    },
+    {
+      "question": "Q20: How many odd days are there in a normal year?",
+      "answer": "1",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "In a normal year, there is 1 odd day."
+    },
+    {
+      "question": "Q21: How many odd days are there in 200 years?",
+      "answer": "3",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "explanation": "200 years have 3 odd days."
+    },
+    {
+      "question": "Q22: If November 1, 2021, falls on a Monday, what day of the week will November 30, 2021, be?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "November has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Monday gives us Tuesday."
+    },
+    {
+      "question": "Q23: If 5th May 2015 was Tuesday, what day of the week was 5th May 2020?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 5 years between 2015 and 2020. Since there is no leap year between these years, the same pattern of days will continue. So, 5th May 2020 will also be Tuesday."
+    },
+    {
+      "question": "Q24: If July 1, 2022, falls on a Friday, what day of the week will July 31, 2022, be?",
+      "answer": "Sunday",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "explanation": "July has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Friday gives us Sunday."
+    },
+    {
+      "question": "Q25: If 18th February 2012 was Saturday, what day of the week was 18th February 2022?",
+      "answer": "Friday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "explanation": "There are 10 years between 2012 and 2022. Since 10 years have passed, the day will be 1 day behind Saturday, which is Friday."
+    },
+    {
+      "question": "Q26: If 8th September 2005 was Thursday, what day of the week was 8th September 2015?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 2005 and 2015. Since 10 years have passed, the day will be 3 days ahead of Thursday, which is Tuesday."
+    },
+    {
+      "question": "Q27: If 18th February 2012 was Saturday, what day of the week was 18th February 2022?",
+      "answer": "Friday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "explanation": "There are 10 years between 2012 and 2022. Since 10 years have passed, the day will be 1 day behind Saturday, which is Friday."
+    },
+    {
+      "question": "Q28: If June 1, 2022, falls on a Thursday, what day of the week will June 30, 2022, be?",
+      "answer": "Thursday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "June has 30 days. Since 30 is divisible by 7, the day remains the same as June 1, 2022, which is Thursday. So, June 30, 2022, will be Thursday."
+    },
+    {
+      "question": "Q29: What was the day of the week on 28th May, 2006?",
+      "answer": "Sunday",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "explanation": "Odd days in 1600 years = 0. Odd days in 400 years = 0. In 5 years (4 ordinary years + 1 leap year) = 6 odd days. The total number of odd days from Jan 1, 2006 to May 28, 2006 is 7, which gives 0 odd days. Therefore, the given day is Sunday.",
+      "__v": 0
+    },
+    {
+      "question": "Q30: How many odd days are there in the century starting from 1501 to 1600?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q31: If today is Monday, what day will it be after 9 days?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Monday, after 9 days, it will be Wednesday."
+    },
+    {
+      "question": "Q32: The product of ages of J and K is 768. If the ratio of their ages is 3:4, what is K's age?",
+      "answer": "32 years",
+      "options": [
+        "24 years",
+        "28 years",
+        "30 years",
+        "32 years"
+      ],
+      "explanation": "Let the ages of J and K be 3x and 4x, respectively. Given that (3x) * (4x) = 768. This simplifies to 12x² = 768 ⟹ x² = 64 ⟹ x = 8. Therefore, J's age = 3 * 8 = 24 years and K's age = 4 * 8 = 32 years.",
+      "__v": 0
+    },
+    {
+      "question": "Q33: If today is Sunday, what day will it be after 6 days?",
+      "answer": "Saturday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Saturday"
+      ],
+      "explanation": "If today is Sunday, after 6 days, it will be Saturday."
+    },
+    {
+      "question": "Q34: If today is Friday, what day of the week will it be after 5 days?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Friday, after 5 days, it will be Wednesday."
+    },
+    {
+      "question": "Q35: What day will be on 1st January 4000?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "1st January 4000 will be a Tuesday."
+    },
+    {
+      "question": "Q36: How many odd days are there in the century starting from 901 to 1000?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q37: If today is Saturday, what day was it 3 days ago?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Saturday, 3 days ago, it was Wednesday."
+    },
+    {
+      "question": "Q38: If 8th September 2005 was Thursday, what day of the week was 8th September 2015?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 2005 and 2015. Since 10 years have passed, the day will be 3 days ahead of Thursday, which is Tuesday."
+    },
+    {
+      "question": "Q39: How many odd days are there in the century starting from 1001 to 1100?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q40: How many odd days are there in the century starting from 1401 to 1500?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q41: If today is Friday, what day of the week was it 5 days ago?",
+      "answer": "Sunday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "explanation": "If today is Friday, 5 days ago, it was Sunday."
+    },
+    {
+      "question": "Q42: How many odd days are there in the century starting from 1201 to 1300?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q43: If today is Friday, what day of the week was it 5 days ago?",
+      "answer": "Sunday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "explanation": "If today is Friday, 5 days ago, it was Sunday."
+    },
+    {
+      "question": "Q44: If 20th April 1999 was Tuesday, what day of the week was 20th April 2009?",
+      "answer": "Monday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 1999 and 2009. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+    },
+    {
+      "question": "Q45: If May 1, 2023, falls on a Monday, what day of the week will May 31, 2023, be?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "May has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Monday gives us Wednesday."
+    },
+    {
+      "question": "Q46: If today is Saturday, what day of the week was it 2 days ago?",
+      "answer": "Thursday",
+      "options": [
+        "Monday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "If today is Saturday, 2 days ago, it was Thursday."
+    },
+    {
+      "question": "Q47: How many odd days are there in a normal year?",
+      "answer": "1",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "In a normal year, there is 1 odd day."
+    },
+    {
+      "question": "Q48: If June 1, 2023, falls on a Thursday, what day of the week will June 30, 2023, be?",
+      "answer": "Saturday",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "explanation": "June has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Thursday gives us Saturday."
+    },
+    {
+      "question": "Q49: If today is Tuesday, what day was it 2 days ago?",
+      "answer": "Sunday",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Tuesday, 2 days ago, it was Sunday."
+    },
+    {
+      "question": "Q50: How many odd days are there in 200 years?",
+      "answer": "3",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "explanation": "200 years have 3 odd days."
+    },
+    {
+      "question": "Q51: If July 1, 2023, falls on a Saturday, what day of the week will July 31, 2023, be?",
+      "answer": "Monday",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "explanation": "July 1, 2023, is a Saturday. Since July has 31 days, moving forward 30 days results in (30 mod 7 = 2) days ahead. So, July 31, 2023, falls on a Monday.",
+      "__v": 1
+    },
+    {
+      "question": "Q52: If today is Thursday, what day will it be after 2 days?",
+      "answer": "Saturday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "If today is Thursday, after 2 days, it will be Saturday."
+    },
+    {
+      "question": "Q53: If today is Tuesday, what day will it be after 1 week?",
+      "answer": "Tuesday",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "explanation": "If today is Tuesday, after 1 week, it will still be Tuesday."
+    },
+    {
+      "question": "Q54: If today is Wednesday, what day was it 7 days ago?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Wednesday, 7 days ago, it was also Wednesday."
+    },
+    {
+      "question": "Q55: If today is Saturday, what day was it 3 days ago?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Saturday, 3 days ago, it was Wednesday."
+    },
+    {
+      "question": "Q56: If June 1, 2022, falls on a Thursday, what day of the week will June 30, 2022, be?",
+      "answer": "Thursday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "June has 30 days. Since 30 is divisible by 7, the day remains the same as June 1, 2022, which is Thursday. So, June 30, 2022, will be Thursday."
+    },
+    {
+      "question": "Q57: If 20th April 1999 was Tuesday, what day of the week was 20th April 2009?",
+      "answer": "Monday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 1999 and 2009. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+    },
+    {
+      "question": "Q58: What day was it on 1st January 1800?",
+      "answer": "Thursday",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "1st January 1800 was a Thursday."
+    },
+    {
+      "question": "Q59: If today is Sunday, what day of the week will it be after 7 days?",
+      "answer": "Sunday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Sunday"
+      ],
+      "explanation": "If today is Sunday, after 7 days, it will be Sunday."
+    },
+    {
+      "question": "Q60: If December 1, 2021, falls on a Wednesday, what day of the week will December 31, 2021, be?",
+      "answer": "Friday",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "explanation": "December has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Wednesday gives us Friday."
+    },
+    {
+      "question": "Q61: How many odd days are there in the century starting from 1701 to 1800?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q62: What day will be on 1st January 3000?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "1st January 3000 will be a Tuesday."
+    },
+    {
+      "question": "Q63: What day was it on 1st January 1756?",
+      "answer": "Thursday",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "1st January 1756 was a Thursday."
+    },
+    {
+      "question": "Q64: How many odd days are there in the century starting from 801 to 900?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q65: What day was it on 1st January 1700?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "1st January 1700 was a Tuesday."
+    },
+    {
+      "question": "Q66: How many odd days are there in the century starting from 1001 to 1100?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q67: How many odd days are there in the century starting from 1001 to 1100?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q68: If today is Sunday, what day will it be after 3 days?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Sunday, after 3 days, it will be Wednesday."
+    },
+    {
+      "question": "Q69: How many odd days are there in the century starting from 1501 to 1600?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q70: If 12th July 1995 was Wednesday, what day of the week was 12th July 2005?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 1995 and 2005. Since 10 years have passed, the day will be 1 day behind Wednesday, which is Tuesday."
+    },
+    {
+      "question": "Q71: If today is Wednesday, what day will it be after 3 weeks?",
+      "answer": "Wednesday",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "If today is Wednesday, after 3 weeks, it will still be Wednesday."
+    },
+    {
+      "question": "Q72: What was the day of the week on 28th May, 2006?",
+      "answer": "Sunday",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "explanation": "Odd days in 1600 years = 0. Odd days in 400 years = 0. In 5 years (4 ordinary years + 1 leap year) = 6 odd days. The total number of odd days from Jan 1, 2006 to May 28, 2006 is 7, which gives 0 odd days. Therefore, the given day is Sunday.",
+      "__v": 0
+    },
+    {
+      "question": "Q73: In which month do we have the least number of odd days?",
+      "answer": "February",
+      "options": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "explanation": "February has the least number of odd days, with 0 odd days in a non-leap year."
+    },
+    {
+      "question": "Q74: How many odd days are there in the century starting from 501 to 600?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q75: How many odd days are there in the century starting from 1201 to 1300?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q76: In which month do we have the least number of odd days?",
+      "answer": "February",
+      "options": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "explanation": "February has the least number of odd days, with 0 odd days in a non-leap year."
+    },
+    {
+      "question": "Q77: If April 1, 2024, falls on a Saturday, what day of the week will April 30, 2024, be?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "April has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Saturday gives us Tuesday."
+    },
+    {
+      "question": "Q78: If March 1, 2024, falls on a Friday, what day of the week will March 31, 2024, be?",
+      "answer": "Sunday",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "explanation": "March has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Friday gives us Sunday."
+    },
+    {
+      "question": "Q79: If February 1, 2023, falls on a Wednesday, what day of the week will February 28, 2023, be?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "February has 28 days in a non-leap year. Since 28 is divisible by 7, the day remains the same as February 1, 2023, which is Wednesday. So, February 28, 2023, will be Tuesday."
+    },
+    {
+      "question": "Q80: How many odd days are there in 200 years?",
+      "answer": "3",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "explanation": "200 years have 3 odd days."
+    },
+    {
+      "question": "Q81: How many odd days are there in 400 years?",
+      "answer": "0",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "explanation": "400 years have 0 odd days."
+    },
+    {
+      "question": "Q82: If today is Thursday, what day will it be after 2 days?",
+      "answer": "Saturday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "If today is Thursday, after 2 days, it will be Saturday."
+    },
+    {
+      "question": "Q83: If today is Saturday, what day was it 3 days ago?",
+      "answer": "Wednesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "If today is Saturday, 3 days ago, it was Wednesday."
+    },
+    {
+      "question": "Q84: If 15th August 1947 was Monday, what day of the week was 15th August 1957?",
+      "answer": "Thursday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "We know that there are 10 years between 1947 and 1957. Since 10 years have passed, the day will be 3 days ahead of Monday, which is Thursday."
+    },
+    {
+      "question": "Q85: If 25th December 1990 was Tuesday, what day of the week was 25th December 2000?",
+      "answer": "Monday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "There are 10 years between 1990 and 2000. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+    },
+    {
+      "question": "Q86: If today is Friday, what day will it be after 1 week?",
+      "answer": "Friday",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "explanation": "If today is Friday, after 1 week, it will still be Friday."
+    },
+    {
+      "question": "Q87: In which month do we have the least number of odd days?",
+      "answer": "February",
+      "options": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "explanation": "February has the least number of odd days, with 0 odd days in a non-leap year."
+    },
+    {
+      "question": "Q88: If today is Sunday, what day will it be after 6 days?",
+      "answer": "Saturday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Saturday"
+      ],
+      "explanation": "If today is Sunday, after 6 days, it will be Saturday."
+    },
+    {
+      "question": "Q89: If October 1, 2024, falls on a Tuesday, what day of the week will October 31, 2024, be?",
+      "answer": "Thursday",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "October has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Tuesday gives us Thursday."
+    },
+    {
+      "question": "Q90: How many odd days are there in the century starting from 1301 to 1400?",
+      "answer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+    },
+    {
+      "question": "Q91: In which month do we have the least number of odd days?",
+      "answer": "February",
+      "options": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "explanation": "February has the least number of odd days, with 0 odd days in a non-leap year."
+    },
+    {
+      "question": "Q92: If today is Monday, what day was it 3 days ago?",
+      "answer": "Friday",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "explanation": "If today is Monday, 3 days ago, it was Friday."
+    },
+    {
+      "question": "Q93: What day will be on 1st January 2100?",
+      "answer": "Wednesday",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "explanation": "1st January 2100 will be a Wednesday."
+    },
+    {
+      "question": "Q94: If today is Wednesday, what day will it be after 3 weeks?",
+      "answer": "Wednesday",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "explanation": "If today is Wednesday, after 3 weeks, it will still be Wednesday."
+    },
+    {
+      "question": "Q95: If today is Tuesday, what day will it be after 1 week?",
+      "answer": "Tuesday",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "explanation": "If today is Tuesday, after 1 week, it will still be Tuesday."
+    },
+    {
+      "question": "Q96: How many odd days are there in the century starting from 501 to 600?",
+      "answer": "6",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+    },
+    {
+      "question": "Q97: If July 1, 2023, falls on a Saturday, what day of the week will July 31, 2023, be?",
+      "answer": "Monday",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Tuesday"
+      ],
+      "explanation": "July 1, 2023, is a Saturday. Since July has 31 days, moving forward 30 days results in (30 mod 7 = 2) days ahead. So, July 31, 2023, falls on a Monday.",
+      "__v": 1
+    },
+    {
+      "question": "Q98: If May 1, 2022, falls on a Sunday, what day of the week will May 31, 2022, be?",
+      "answer": "Tuesday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "explanation": "May has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Sunday gives us Tuesday."
+    },
+    {
+      "question": "Q99: It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+      "answer": "Friday",
+      "options": [
+        "Sunday",
+        "Saturday",
+        "Friday",
+        "Wednesday"
+      ],
+      "explanation": "On 31st December, 2005 it was Saturday. Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days. On 31st December 2009, it was Thursday. Thus, on 1st Jan, 2010 it is Friday.",
+      "__v": 0
+    },
+    {
+      "question": "Q100: If 18th February 2012 was Saturday, what day of the week was 18th February 2022?",
+      "answer": "Friday",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "explanation": "There are 10 years between 2012 and 2022. Since 10 years have passed, the day will be 1 day behind Saturday, which is Friday."
+    }
+  ]
